@@ -1,3 +1,4 @@
+//used standard array of double values
 #include<iostream>
 #include<array>
 using namespace std;
